@@ -1,6 +1,6 @@
 # bfstore iac Modules
 
-![bfstore - Borough Furniture Store logo](bfstore_terraform_modules.png)
+![bfstore - Borough Furniture Store logo](iac_modules_logo.png)
 
 Reusable Terraform modules for bfstore platform infrastructure, covering networking, Kubernetes, databases, IAM, observability, and cloud-native foundations.
 
