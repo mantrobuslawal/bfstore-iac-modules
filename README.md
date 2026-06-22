@@ -2,7 +2,7 @@
 
 ![bfstore - Borough Furniture Store logo](iac_modules_logo.png)
 
-Reusable Terraform modules for bfstore platform infrastructure, covering networking, Kubernetes, databases, IAM, observability, and cloud-native foundations.
+Reusable openTofu modules for bfstore platform infrastructure, covering networking, Kubernetes, databases, IAM, observability, and cloud-native foundations.
 
 ## Repository status
 
